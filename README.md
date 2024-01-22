@@ -1,5 +1,9 @@
-Healthhub-UI-design-
+## Healthhub-UI-design-
 This repository showcases the collaborative efforts of our team in redesigning the HealthHub app's UI. Our main goal here was to create a Mid and work our way to high-fidelity prototype using Lean UX process While successfully addressing the challenges faced by users and enhanced the overall usability of the HealthHub platform.
+
+## Design Tools Used
+- Figma: For creating prototypes.
+- Miro: For collaborative brainstorming and ideation.
 
 PLEASE CHECK OUT main.docx .. to get a glimpse of how our brain was working throughout the project and to view the final High fidelity prototype (and a virtual milo as a thank you for reading !)
 
