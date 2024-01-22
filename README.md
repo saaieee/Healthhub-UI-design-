@@ -1,4 +1,4 @@
-![image](https://github.com/saaieee/Healthhub-UI-design-/assets/110209203/c0211332-1587-4933-a924-fdc91af2b4e4)# Healthhub-UI-design-
+Healthhub-UI-design-
 This repository showcases the collaborative efforts of our team in redesigning the HealthHub app's UI. Our main goal here was to create a Mid and work our way to high-fidelity prototype using Lean UX process While successfully addressing the challenges faced by users and enhanced the overall usability of the HealthHub platform.
 
 PLEASE CHECK OUT main.docx .. to get a glimpse of how our brain was working throughout the project and to view the final High fidelity prototype (and a virtual milo as a thank you for reading !)
